@@ -1,6 +1,6 @@
 class Corsa{
    var property color
-   var position
+    //var position
    method capacidad()= 4
    method velocidadMaxima()= 150
    method peso()= 1300
